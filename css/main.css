@@ -1,5 +1,10 @@
 html {
 	font-family: 'Dosis', sans-serif;
+	box-sizing: border-box;
+}
+
+*, *::before, *::after {
+	box-sizing: inherit;
 }
 
 body {
@@ -31,4 +36,22 @@ header h1 {
 	margin: 0;
 	background-image: url("../images/subtle_white_mini_waves.png");
 	text-align: center;
+}
+
+nav li {
+	float: left;
+	padding: 1.5em;
+	width: 25%;
+	background-color: #512200;
+}
+
+nav li a {
+	color: white;
+	text-decoration: none;
+}
+
+nav ol {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
 }
