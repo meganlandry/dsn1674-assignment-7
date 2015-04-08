@@ -34,15 +34,27 @@ header h1 {
 	font-size: 3em;
 	padding: .5em;
 	margin: 0;
+}
+
+header {
+	color: #512200;
 	background-image: url("../images/subtle_white_mini_waves.png");
 	text-align: center;
+	padding-bottom: 3em;
+	margin-bottom: -4.1em;
 }
 
 nav li {
 	float: left;
-	padding: 1.5em;
+	padding: .5em;
 	width: 25%;
 	background-color: #512200;
+	opacity: .5;
+	font-size: 1.7em;
+}
+
+nav li:hover {
+	opacity: .8;
 }
 
 nav li a {
