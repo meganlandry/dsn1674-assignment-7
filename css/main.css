@@ -29,6 +29,10 @@ footer {
 	position: absolute;
 }
 
+.rocks {
+	width: 100%;
+}
+
 header h1 {
 	color: #512200;
 	font-size: 3em;
@@ -66,4 +70,10 @@ nav ol {
 	list-style-type: none;
 	padding: 0;
 	margin: 0;
+}
+
+h2 {
+	color: white;
+	text-align: center;
+	margin: -3em;
 }
