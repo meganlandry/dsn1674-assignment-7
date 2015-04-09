@@ -121,3 +121,17 @@ h3 {
 	width: 50%;
 	float: right;
 }
+
+.dung {
+	color: white;
+	font-size: 1.5em;
+	position: absolute;
+	margin: -10% 16%;
+}
+
+.tortoise {
+	color: white;
+	font-size: 1.5em;
+	position: absolute;
+	margin: -10% 70%;
+}
