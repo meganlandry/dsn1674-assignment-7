@@ -147,6 +147,9 @@ footer {
 footer img {
 	width: 105px;
 }
+p:hover {
+	background: linear-gradient(to bottom, ##3b8013, #244e08)!important;
+}
 
 p {
 	background: linear-gradient(to bottom, #70bd22, #3d8314);
@@ -154,3 +157,4 @@ p {
 	border-radius: .75em;
 	box-shadow: 0 .2em .5em 0 black;
 }
+
