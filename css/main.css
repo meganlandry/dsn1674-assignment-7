@@ -135,3 +135,14 @@ h3 {
 	position: absolute;
 	margin: -10% 70%;
 }
+
+footer {
+	background-color: #a79082;
+	position: absolute;
+	width: 100%;
+	text-align: center;
+}
+
+footer img {
+	width: 105px;
+}
