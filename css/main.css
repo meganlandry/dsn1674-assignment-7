@@ -55,6 +55,7 @@ nav li {
 	background-color: #512200;
 	opacity: .5;
 	font-size: 1.7em;
+	text-align: center;
 }
 
 nav li:hover {
@@ -145,4 +146,11 @@ footer {
 
 footer img {
 	width: 105px;
+}
+
+p {
+	background: linear-gradient(to bottom, #70bd22, #3d8314);
+	padding: 0.3em 1em;
+	border-radius: .75em;
+	box-shadow: 0 .2em .5em 0 black;
 }
