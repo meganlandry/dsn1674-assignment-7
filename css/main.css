@@ -85,7 +85,7 @@ h3 {
 .antnestbeetle {
 	width: 50%;
 	float: left;
-	margin: 93px;
+	margin-top: 109px;
 	margin-left: 0;
 }
 
@@ -97,9 +97,27 @@ h3 {
 
 }
 
+.stag {
+	color: white;
+	font-size: 1.5em;
+	position: absolute;
+	margin: 58% 72%;
+
+}
+
 .stagbeetle {
 	width: 50%;
 	float: right;
-	margin: 93px;
+	margin-top: 109px;
 	margin-right: 0;
+}
+
+.dungbeetle {
+	width: 50%;
+	margin-left: 0;
+}
+
+.tortoisebeetle {
+	width: 50%;
+	float: right;
 }
